@@ -1,0 +1,3 @@
+Open the project in an IDE such as Eclipse or Intellij. 
+Run the Java compiler. 
+Program will run in the console.
